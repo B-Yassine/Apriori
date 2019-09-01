@@ -9,5 +9,5 @@ For instance If a product A can be very well associated to a product B and the p
 
 for example: If some one buy some chicken, the same person is highly likely to buy light cream as well ==> by placing the 2 closer to each other the buyer is highly likely to buy the 2 products even if he was intended to only buy chicken as we've found it after our analysis using the apriori algorithm as can be seen in the picture below.
 
- ![Screenshot](apriori.png)
+ ![](apriori.PNG)
  
